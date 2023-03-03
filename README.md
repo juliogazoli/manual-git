@@ -112,3 +112,28 @@ git remote rename nome_antigo novo_nome
 # Exemplo:
 git pull origin main
 ```
+
+## Padrões de commit
+
+- `feat`- **novo recurso** 
+
+- `fix` - **solucionando um problema**
+
+- `docs` - **mudanças na documentação**
+
+- `test` - **alterações em testes**
+
+- `build` - **arquivos de build e dependências**
+
+- `perf` - **performance**
+
+- `style` - **formatações de código**
+
+- `refactor` - **refatorações que não alterem sua funcionalidade**
+
+- `chore` - **atualizações de tarefas**
+
+- `ci` - **integração contínua**
+
+
+[Visualizador Git](https://git-school.github.io/visualizing-git/)  
