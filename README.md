@@ -103,6 +103,9 @@ git push origin main
 Trazer (puxar) arquivos do repositório remoto:
 ``` sh
 git pull nome_repositorio nome_branch
+
+# Exemplo:
+git pull origin main
 ```
 
 Renomear repositório remoto
