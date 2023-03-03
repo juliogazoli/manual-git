@@ -108,9 +108,6 @@ git pull nome_repositorio nome_branch
 Renomear repositório remoto
 ``` sh
 git remote rename nome_antigo novo_nome
-
-# Exemplo:
-git pull origin main
 ```
 
 ## Padrões de commit
